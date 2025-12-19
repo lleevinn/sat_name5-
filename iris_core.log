@@ -1,0 +1,239 @@
+2025-12-18 02:55:08,268 - VoiceInput - INFO - Vosk успешно импортирован
+2025-12-18 02:55:08,269 - VoiceInput - INFO - SpeechRecognition успешно импортирован
+2025-12-18 02:55:08,446 - VoiceInput - INFO - SoundDevice и NumPy успешно импортированы
+2025-12-18 02:55:08,446 - VoiceInput - INFO - PyAudio успешно импортирован
+2025-12-18 02:56:21,625 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.31.140:3000
+2025-12-18 02:56:21,627 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-18 02:58:35,747 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 02:58:35,791 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 02:58:35,892 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 02:58:36,012 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 02:58:36,091 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 02:58:36,210 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 02:58:36,291 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 02:58:36,410 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 02:58:36,491 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 02:58:36,590 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 02:58:36,709 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 02:58:36,791 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 02:58:36,921 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 02:58:39,209 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 02:58:39,211 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 02:58:39,328 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 02:58:39,392 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 02:58:39,491 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 02:58:39,611 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 02:58:39,691 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 02:58:39,809 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 02:58:39,891 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 02:58:40,012 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 02:58:40,090 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 02:58:40,191 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 02:58:40,436 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 02:58:51,537 - VoiceInput - INFO - Статистика: 32 фраз, 13 wake, точность: 62.8%
+2025-12-18 03:02:53,012 - VoiceInput - INFO - Vosk успешно импортирован
+2025-12-18 03:02:53,012 - VoiceInput - INFO - SpeechRecognition успешно импортирован
+2025-12-18 03:02:53,160 - VoiceInput - INFO - SoundDevice и NumPy успешно импортированы
+2025-12-18 03:02:53,160 - VoiceInput - INFO - PyAudio успешно импортирован
+2025-12-18 03:03:51,142 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.31.140:3000
+2025-12-18 03:03:51,143 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-18 03:04:05,793 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 03:04:05,869 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 03:04:05,993 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 03:04:06,069 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 03:04:06,168 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 03:04:06,287 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 03:04:06,369 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 03:04:06,488 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 03:04:06,569 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 03:04:06,669 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 03:04:06,787 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 03:04:06,869 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 03:04:07,005 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 03:04:10,390 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 03:04:10,469 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 03:04:10,588 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 03:04:10,670 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 03:04:10,788 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 03:04:10,868 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 03:04:10,968 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 03:04:11,088 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 03:04:11,169 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 03:04:11,328 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 03:04:21,131 - VoiceInput - INFO - Статистика: 55 фраз, 13 wake, точность: 61.6%
+2025-12-18 20:15:11,289 - VoiceInput - INFO - Vosk успешно импортирован
+2025-12-18 20:15:11,289 - VoiceInput - INFO - SpeechRecognition успешно импортирован
+2025-12-18 20:15:11,457 - VoiceInput - INFO - SoundDevice и NumPy успешно импортированы
+2025-12-18 20:15:11,457 - VoiceInput - INFO - PyAudio успешно импортирован
+2025-12-18 20:16:22,120 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.31.140:3000
+2025-12-18 20:16:22,120 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-18 20:16:33,037 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:16:33,041 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:16:33,165 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:16:33,241 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:16:33,364 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:16:33,442 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:16:33,541 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:16:33,673 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:16:33,741 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:16:33,858 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:16:33,941 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:16:34,041 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:16:34,175 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:16:38,665 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:16:38,742 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:16:38,842 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:16:39,002 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:16:39,042 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:16:39,162 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:16:39,242 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:16:39,361 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:16:39,441 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:16:39,541 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:16:39,697 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:16:52,080 - VoiceInput - INFO - Статистика: 24 фраз, 13 wake, точность: 62.5%
+2025-12-18 20:33:25,935 - VoiceInput - INFO - Vosk успешно импортирован
+2025-12-18 20:33:25,935 - VoiceInput - INFO - SpeechRecognition успешно импортирован
+2025-12-18 20:33:26,099 - VoiceInput - INFO - SoundDevice и NumPy успешно импортированы
+2025-12-18 20:33:26,099 - VoiceInput - INFO - PyAudio успешно импортирован
+2025-12-18 20:34:28,185 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.31.140:3000
+2025-12-18 20:34:28,189 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-18 20:34:43,611 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:34:43,636 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:34:43,735 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:34:43,861 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:34:43,937 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:34:44,058 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:34:44,136 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:34:44,256 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:34:44,337 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:34:44,435 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:34:44,557 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:34:44,637 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:34:44,776 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:34:52,669 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:34:52,736 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:34:58,149 - VoiceInput - INFO - Статистика: 24 фраз, 13 wake, точность: 62.5%
+2025-12-18 20:40:30,609 - VoiceInput - INFO - Vosk успешно импортирован
+2025-12-18 20:40:30,609 - VoiceInput - INFO - SpeechRecognition успешно импортирован
+2025-12-18 20:40:30,786 - VoiceInput - INFO - SoundDevice и NumPy успешно импортированы
+2025-12-18 20:40:30,786 - VoiceInput - INFO - PyAudio успешно импортирован
+2025-12-18 20:43:51,442 - VoiceInput - INFO - Vosk успешно импортирован
+2025-12-18 20:43:51,442 - VoiceInput - INFO - SpeechRecognition успешно импортирован
+2025-12-18 20:43:51,598 - VoiceInput - INFO - SoundDevice и NumPy успешно импортированы
+2025-12-18 20:43:51,598 - VoiceInput - INFO - PyAudio успешно импортирован
+2025-12-18 20:44:48,943 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.31.140:3000
+2025-12-18 20:44:48,946 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-18 20:44:55,974 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:44:55,979 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:44:56,057 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:44:56,183 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:44:56,258 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:44:56,395 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:44:56,456 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:44:56,650 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-18 20:45:00,488 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:45:00,557 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:45:00,743 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:45:00,755 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:45:00,857 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:45:01,040 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:45:01,057 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:45:01,242 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:45:01,258 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:45:01,384 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:45:01,457 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:45:01,557 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:45:01,719 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:45:01,758 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:45:01,930 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:45:01,956 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:45:02,056 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:45:02,187 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:45:02,258 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:45:02,795 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-18 20:45:18,912 - VoiceInput - INFO - Статистика: 44 фраз, 8 wake, точность: 62.0%
+2025-12-20 01:21:10,055 - VoiceInput - INFO - Vosk успешно импортирован
+2025-12-20 01:21:10,056 - VoiceInput - INFO - SpeechRecognition успешно импортирован
+2025-12-20 01:21:10,238 - VoiceInput - INFO - SoundDevice и NumPy успешно импортированы
+2025-12-20 01:21:10,238 - VoiceInput - INFO - PyAudio успешно импортирован
+2025-12-20 01:22:20,390 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.31.140:3000
+2025-12-20 01:22:20,394 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-20 01:22:40,098 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-20 01:22:40,102 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-20 01:22:40,105 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-20 01:22:40,262 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-20 01:22:40,265 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-20 01:22:40,333 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-20 01:22:40,337 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-20 01:22:40,424 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-20 01:22:40,429 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-20 01:22:40,435 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-20 01:22:40,553 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-20 01:22:40,554 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-20 01:22:40,559 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-20 01:22:40,564 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-20 01:22:40,590 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-20 01:22:40,593 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-20 01:22:40,597 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-20 01:22:40,599 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-20 01:22:40,604 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-20 01:22:40,607 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-20 01:22:40,691 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-20 01:22:40,694 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-20 01:22:40,697 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-20 01:22:40,702 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-20 01:22:40,726 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-20 01:22:40,728 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-20 01:22:40,733 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-20 01:22:40,736 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-20 01:22:40,760 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-20 01:22:40,762 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-20 01:22:40,764 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-20 01:22:40,769 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-20 01:22:40,772 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-20 01:22:40,775 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-20 01:22:40,920 - VoiceInput - ERROR - Ошибка в wake коллбэке: 'IrisVisual' object has no attribute 'pulse_animation'
+2025-12-20 01:22:40,923 - VoiceInput - ERROR - Ошибка в command коллбэке: 'IrisVisual' object has no attribute 'show_message'
+2025-12-20 01:22:50,276 - VoiceInput - INFO - Статистика: 23 фраз, 18 wake, точность: 61.3%
+2025-12-20 01:51:00,585 - VoiceInput - INFO - Vosk успешно импортирован
+2025-12-20 01:51:00,585 - VoiceInput - INFO - SpeechRecognition успешно импортирован
+2025-12-20 01:51:00,743 - VoiceInput - INFO - SoundDevice и NumPy успешно импортированы
+2025-12-20 01:51:00,743 - VoiceInput - INFO - PyAudio успешно импортирован
+2025-12-20 01:52:05,450 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.31.140:3000
+2025-12-20 01:52:05,454 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-20 01:52:35,415 - VoiceInput - INFO - Статистика: 26 фраз, 0 wake, точность: 62.3%
+2025-12-20 01:53:36,572 - VoiceInput - INFO - Vosk успешно импортирован
+2025-12-20 01:53:36,572 - VoiceInput - INFO - SpeechRecognition успешно импортирован
+2025-12-20 01:53:36,740 - VoiceInput - INFO - SoundDevice и NumPy успешно импортированы
+2025-12-20 01:53:36,741 - VoiceInput - INFO - PyAudio успешно импортирован
+2025-12-20 01:54:33,558 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.31.140:3000
+2025-12-20 01:54:33,559 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-20 01:55:03,549 - VoiceInput - INFO - Статистика: 42 фраз, 0 wake, точность: 62.1%
+2025-12-20 01:55:33,550 - VoiceInput - INFO - Статистика: 105 фраз, 20 wake, точность: 62.0%
+2025-12-20 01:56:33,432 - VoiceInput - INFO - Статистика: 146 фраз, 31 wake, точность: 62.1%
+2025-12-20 01:57:09,774 - VoiceInput - INFO - Статистика: 183 фраз, 32 wake, точность: 62.6%

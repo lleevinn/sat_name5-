@@ -1,0 +1,180 @@
+{
+  "timestamp": 1766184755.1850564,
+  "stats": {
+    "total_phrases": 26,
+    "wake_detected": 0,
+    "vosk_success": 2,
+    "google_success": 0,
+    "avg_confidence": 0.6230769230769228,
+    "last_recognition": "",
+    "audio_quality": 0.0
+  },
+  "settings": {
+    "wake_word": "ирис",
+    "sensitivity": 0.6,
+    "mode": "hybrid",
+    "sample_rate": 16000
+  },
+  "recent_history": [
+    {
+      "text": "инициализация",
+      "confidence": 0.6,
+      "source": "vosk_partial",
+      "timestamp": 1766184746.005177,
+      "mode": "hybrid",
+      "sensitivity": 0.6
+    },
+    {
+      "text": "инициализация",
+      "confidence": 0.6,
+      "source": "vosk_partial",
+      "timestamp": 1766184746.2573395,
+      "mode": "hybrid",
+      "sensitivity": 0.6
+    },
+    {
+      "text": "инициализация",
+      "confidence": 0.6,
+      "source": "vosk_partial",
+      "timestamp": 1766184746.3929396,
+      "mode": "hybrid",
+      "sensitivity": 0.6
+    },
+    {
+      "text": "инициализация",
+      "confidence": 0.6,
+      "source": "vosk_partial",
+      "timestamp": 1766184746.631822,
+      "mode": "hybrid",
+      "sensitivity": 0.6
+    },
+    {
+      "text": "инициализация",
+      "confidence": 0.6,
+      "source": "vosk_partial",
+      "timestamp": 1766184746.8685148,
+      "mode": "hybrid",
+      "sensitivity": 0.6
+    },
+    {
+      "text": "инициализация",
+      "confidence": 0.6,
+      "source": "vosk_partial",
+      "timestamp": 1766184747.0905373,
+      "mode": "hybrid",
+      "sensitivity": 0.6
+    },
+    {
+      "text": "инициализация",
+      "confidence": 0.9,
+      "source": "vosk",
+      "timestamp": 1766184747.2807977,
+      "mode": "hybrid",
+      "sensitivity": 0.6
+    },
+    {
+      "text": "проверяем",
+      "confidence": 0.6,
+      "source": "vosk_partial",
+      "timestamp": 1766184749.4255104,
+      "mode": "hybrid",
+      "sensitivity": 0.6
+    },
+    {
+      "text": "проверяем",
+      "confidence": 0.6,
+      "source": "vosk_partial",
+      "timestamp": 1766184749.631235,
+      "mode": "hybrid",
+      "sensitivity": 0.6
+    },
+    {
+      "text": "проверяем",
+      "confidence": 0.6,
+      "source": "vosk_partial",
+      "timestamp": 1766184749.895963,
+      "mode": "hybrid",
+      "sensitivity": 0.6
+    },
+    {
+      "text": "проверяем",
+      "confidence": 0.6,
+      "source": "vosk_partial",
+      "timestamp": 1766184750.116423,
+      "mode": "hybrid",
+      "sensitivity": 0.6
+    },
+    {
+      "text": "проверяем",
+      "confidence": 0.6,
+      "source": "vosk_partial",
+      "timestamp": 1766184750.2314754,
+      "mode": "hybrid",
+      "sensitivity": 0.6
+    },
+    {
+      "text": "проверяем",
+      "confidence": 0.6,
+      "source": "vosk_partial",
+      "timestamp": 1766184750.5164237,
+      "mode": "hybrid",
+      "sensitivity": 0.6
+    },
+    {
+      "text": "проверяем",
+      "confidence": 0.6,
+      "source": "vosk_partial",
+      "timestamp": 1766184750.7200913,
+      "mode": "hybrid",
+      "sensitivity": 0.6
+    },
+    {
+      "text": "проверяем",
+      "confidence": 0.6,
+      "source": "vosk_partial",
+      "timestamp": 1766184751.0028245,
+      "mode": "hybrid",
+      "sensitivity": 0.6
+    },
+    {
+      "text": "проверяем",
+      "confidence": 0.6,
+      "source": "vosk_partial",
+      "timestamp": 1766184751.120311,
+      "mode": "hybrid",
+      "sensitivity": 0.6
+    },
+    {
+      "text": "проверяем",
+      "confidence": 0.6,
+      "source": "vosk_partial",
+      "timestamp": 1766184751.367634,
+      "mode": "hybrid",
+      "sensitivity": 0.6
+    },
+    {
+      "text": "проверяем",
+      "confidence": 0.6,
+      "source": "vosk_partial",
+      "timestamp": 1766184751.5689807,
+      "mode": "hybrid",
+      "sensitivity": 0.6
+    },
+    {
+      "text": "проверяем",
+      "confidence": 0.6,
+      "source": "vosk_partial",
+      "timestamp": 1766184751.7853148,
+      "mode": "hybrid",
+      "sensitivity": 0.6
+    },
+    {
+      "text": "проверяем",
+      "confidence": 0.9,
+      "source": "vosk",
+      "timestamp": 1766184752.1269336,
+      "mode": "hybrid",
+      "sensitivity": 0.6
+    }
+  ]
+}
